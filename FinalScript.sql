@@ -1,3 +1,5 @@
+DROP DATABASE PersonalityPlantDB;
+
 CREATE DATABASE PersonalityPlantDB;
 GO
 
